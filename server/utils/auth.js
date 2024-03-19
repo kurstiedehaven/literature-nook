@@ -34,6 +34,8 @@ module.exports = {
       return res.status(400).json({ message: 'invalid token!' });
     }
 
+    return req;
+
     // send to next endpoint
     next();
   },
