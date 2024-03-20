@@ -25,6 +25,7 @@ N/A
 ## [Contribution](#contribution)
 
 Please do not contribute to this repository. You may fork this one and make your own.
+A HUGE shoutout to Edward for helping me fix bugs and staying up until 3 in the morning to help me!!
 
 ## [Test](#test)
 
